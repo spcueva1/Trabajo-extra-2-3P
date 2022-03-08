@@ -33,13 +33,18 @@ Para desarrollar la aplicacion se trabajo en un total de 6 pantallas con un codi
 
 https://github.com/Samuf01/TrabajoR/blob/main/lol%7B/Simplificator.apk
 
-3. Conclusiones
+
+3. Vídeo
+https://youtu.be/xi98m4Lf0EQ
+
+
+4. Conclusiones
 
 - App Inventor es una sitio donde el poder crear una aplicación lo simplifica de la forma adecuada, sin embargo se necesita conocimientos basicos sobre programación para poder desarrollar apps mas especializadas
 
 - Las formulas nos permiten configurar la correcta programación de la app para poder lograr lo que se requiera en cada caso.
 
-4. Bibliografia
+5. Bibliografia
 
 Floyd, T. (2007, 25 octubre). Principios de circuitos eléctricos. PDF. Recuperado 22 de enero de 2022, de https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
@@ -47,8 +52,4 @@ App Inventor 2- Creando aplicacion con Formulas y calculoas matematicos | PARTE 
 
 Ing. Diego Meza M. (2018, 24 marzo). USO DE APP INVENTOR - TEXTBOX Y ECUACIONES MATEMATICAS [Vídeo]. YouTube. https://www.youtube.com/watch?v=yNj7gN4ELZ8
 
-5. Vídeo
-https://youtu.be/xi98m4Lf0EQ
 
-6. Código Fuente
-https://github.com/Samuf01/TrabajoR/blob/main/lol%7B/Simplificator.aab
