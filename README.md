@@ -17,7 +17,7 @@ A) Creación de una Aplicación móvil en App inventor para la resolución de ej
 
 Para desarrollar la aplicacion se trabajo en un total de 6 pantallas con un codigo de programción simple para poder ejecutar las distintas opeaciones dentro de nuestra app, a continuacion se podra observar el archivo apk para observar su funcionamiento y se detallara como fue su construcción.
 
-   1. Dentro de la pantalla de carga se agrego el nombre de la app, ademas de una imagen y una barra    de carga, tambien se detalla el codigo empleado dentro de esta pantalla       de carga para su correcto funcionamiento.
+  1. Dentro de la pantalla de carga se agrego el nombre de la app, ademas de una imagen y una barra    de carga, tambien se detalla el codigo empleado dentro de esta pantalla       de carga para su correcto funcionamiento.
 
   2. La segunda pantalla contiene el menú el cual presenta las 4 opciones requeridas para el programa, el menú contiene un codigo simple para poder ejecutar su funcion de            seleccion.
   
@@ -31,7 +31,7 @@ Para desarrollar la aplicacion se trabajo en un total de 6 pantallas con un codi
 
 -APK DEL PROGRAMA
 
-https://github.com/Samuf01/TrabajoR/blob/main/lol%7B/Simplificator.apk
+https://github.com/spcueva1/Trabajo-extra-2-3P/blob/d182637c302da2d33142a40e57ef1ebab16f97f8/Apps/Simplificator.apk
 
 
 3. Vídeo
@@ -51,5 +51,9 @@ Floyd, T. (2007, 25 octubre). Principios de circuitos eléctricos. PDF. Recupera
 App Inventor 2- Creando aplicacion con Formulas y calculoas matematicos | PARTE I. (2016, 12 marzo). [Vídeo]. YouTube. https://www.youtube.com/watch?v=7t-oi3_6__c
 
 Ing. Diego Meza M. (2018, 24 marzo). USO DE APP INVENTOR - TEXTBOX Y ECUACIONES MATEMATICAS [Vídeo]. YouTube. https://www.youtube.com/watch?v=yNj7gN4ELZ8
+
+6. Codigo 
+
+https://github.com/spcueva1/Trabajo-extra-2-3P/blob/d182637c302da2d33142a40e57ef1ebab16f97f8/Apps/Simplificator.aab
 
 
