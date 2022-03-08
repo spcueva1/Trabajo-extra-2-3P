@@ -35,9 +35,9 @@ https://github.com/Samuf01/TrabajoR/blob/main/lol%7B/Simplificator.apk
 
 3. Conclusiones
 
-App Inventor es una sitio donde el poder crear una aplicación lo simplifica de la forma adecuada, sin embargo se necesita conocimientos basicos sobre programación para poder desarrollar apps mas especializadas
+- App Inventor es una sitio donde el poder crear una aplicación lo simplifica de la forma adecuada, sin embargo se necesita conocimientos basicos sobre programación para poder desarrollar apps mas especializadas
 
-Las formulas nos permiten configurar la correcta programación de la app para poder lograr lo que se requiera en cada caso.
+- Las formulas nos permiten configurar la correcta programación de la app para poder lograr lo que se requiera en cada caso.
 
 4. Bibliografia
 
