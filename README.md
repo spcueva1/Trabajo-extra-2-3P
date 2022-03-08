@@ -18,16 +18,40 @@ A) Creación de una Aplicación móvil en App inventor para la resolución de ej
 Para desarrollar la aplicacion se trabajo en un total de 6 pantallas con un codigo de programción simple para poder ejecutar las distintas opeaciones dentro de nuestra app, a continuacion se podra observar el archivo apk para observar su funcionamiento y se detallara como fue su construcción.
 
   1. Dentro de la pantalla de carga se agrego el nombre de la app, ademas de una imagen y una barra    de carga, tambien se detalla el codigo empleado dentro de esta pantalla       de carga para su correcto funcionamiento.
+  
+  ![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/1.PNG)
+  
+  ![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/2.PNG)
 
   2. La segunda pantalla contiene el menú el cual presenta las 4 opciones requeridas para el programa, el menú contiene un codigo simple para poder ejecutar su funcion de            seleccion.
   
+  ![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/3.PNG)
+  
+  ![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/4.PNG)
+  
   3. La tercera pantalla se observa la primera opción solicitada acerca del calculo de amplificadores operacionales de sumador. El bloque de código inicial asemeja la formula      planteada, sin embargo el código manejado debe ser de forma cuidadosa ya que al construir los bloques de codigos se necesita suponer las operaciones por lo que pueden existir    confuciones y programar la formula de manera erronea.
+
+![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/5.PNG)
+
+![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/6.PNG)
   
   4. La cuarta pantalla se observa la segunda opción solicitada acerca del calculo de amplificadores operacionales restador, ademas de un boton que permite regresar al menu        principal. El código maneja la formula original para poder operar este tipo de problemas, sin embargo el codigo debe trabajarse con el mas minimo detalle ya que al construit    los bloques de codigos puede existir un error al momento de tratar de ubicar una de las operaciones dentro de la formula original.
 
+![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/7.PNG)
+
+![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/8.PNG)
+
   5. La quinta pantalla se observa la primera opción solicitada acerca del calculo de amplificadores operacionales multiplicador. Los bloques de codigos para la realización de      estas operaciones son un poco mas cortas y simples en comparacion a las anteriores, manejamos un codigo mas corto por lo que puede causar menos confuisones y errores durante    su creacion.
+
+![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/9.PNG)
+
+![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/10.PNG)
   
   6. La sexta pantalla se observa la primera opción solicitada acerca del calculo de amplificadores operacionales integrador. Durante la creacion de los bl9oques, estas            operaciones manejan integrales definidas por lo que app inventor no posibilita la opcuion de crear una operacion compleja como de este tipo, por lo que se programo la opciuon    para que el usuario realice dicha operación de forma manual e ingrese el valor para el calculo total.
+ 
+![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/11.PNG)
+
+![](https://github.com/spcueva1/Trabajo-extra-2-3P/blob/cd134852ee10dc73cf9aaf23bf22346c272916e4/imagen%20trabajo%20extar%20dos/12.PNG)
 
 -APK DEL PROGRAMA
 
